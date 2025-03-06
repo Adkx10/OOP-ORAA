@@ -211,7 +211,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel1 = new javax.swing.JPanel();
         label1 = new java.awt.Label();
         date = new javax.swing.JLabel();
-        jLabel1 = new javax.swing.JLabel();
         logoutButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -237,12 +236,7 @@ public class HomePage extends javax.swing.JFrame {
         date.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         date.setText("jLabel1");
         jPanel1.add(date);
-        date.setBounds(590, 10, 100, 16);
-
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/MotorPH/PymU_9wg3glsCkwHhntS1AyzFaE_nZnmdFFf_zHhjnCVxZSPn0gzVUmJZ6ij8BWmq0scorUbtYb7f3MVnDmbq7I=w16383.png"))); // NOI18N
-        jLabel1.setText("jLabel1");
-        jPanel1.add(jLabel1);
-        jLabel1.setBounds(-560, -50, 1380, 390);
+        date.setBounds(590, 70, 100, 16);
 
         logoutButton.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         logoutButton.setText("Log Out");
@@ -282,7 +276,6 @@ public class HomePage extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel date;
-    private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
     private java.awt.Label label1;
     private javax.swing.JButton logoutButton;
