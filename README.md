@@ -3,8 +3,11 @@ Please download the **MotorPH-1.0-SNAPSHOT-shaded.jar** from the release tab tit
 Then make sure to download the .csv files (except the copied csv those are for backup)
 
 • Credentials.csv
+
 • Employee Data.csv
+
 • Attendance.csv
+
 • Leave Request.csv
 
 keep them on the same folder with the jar file for the program to run properly.
