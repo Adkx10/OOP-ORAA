@@ -2,7 +2,7 @@ Please download the **MotorPH-1.0-SNAPSHOT-shaded.jar** from the release tab tit
 
 Then make sure to download the .csv files (except the copied csv those are for backup)
 
-• Credentials.csv
+• Credentials.csv (Open this to choose what type of account to log in.)
 
 • Employee Data.csv
 
